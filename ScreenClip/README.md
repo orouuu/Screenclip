@@ -12,8 +12,6 @@ Une barrette à écran : elle affiche en boucle les GIF d'une carte microSD sur 
 
 La première fois, il faut internet et quelques minutes : les outils s'installent tout seuls. Si la barrette n'est pas en mode programmation, la fenêtre explique le geste à faire avec les boutons BOOT et RST.
 
-Si le Mac refuse d'ouvrir le fichier, lis `_MAC/Si le Mac bloque.txt`.
-
 ## Utiliser
 
 Tout se fait avec le bouton BOOT :
